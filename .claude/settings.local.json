@@ -19,7 +19,10 @@
       "PowerShell(Get-ChildItem *)",
       "PowerShell(Get-ChildItem \"C:\\\\Users\\\\roman\\\\Work\\\\claude\\\\projects\\\\MyStudyBookmarks\" | Where-Object { !$_.PSIsContainer } | Select-Object Name)",
       "Bash(New-Item -ItemType File -Path \"C:\\\\Users\\\\roman\\\\Work\\\\claude\\\\projects\\\\MyStudyBookmarks\\\\README.md\" -Force)",
-      "Bash(Out-Null)"
+      "Bash(Out-Null)",
+      "Bash(git add *)",
+      "Bash(git commit *)",
+      "Bash(git push *)"
     ]
   }
 }
