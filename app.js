@@ -867,6 +867,12 @@ document.addEventListener('DOMContentLoaded', async () => {
       if (res.ok) window.LINK_TREE = await res.json();
     } catch { /* static mode — LINK_TREE injected inline */ }
   }
+  if (!window.LINK_TREE) {
+    try {
+      const res = await fetch('bookmarks.json');
+      if (res.ok) window.LINK_TREE = await res.json();
+    } catch { /* ignore */ }
+  }
 
   buildSidebar();
 });
