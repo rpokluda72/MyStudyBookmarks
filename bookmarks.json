@@ -1,0 +1,2595 @@
+{
+  "groups": [
+    {
+      "id": "ai",
+      "name_en": "AI",
+      "importance": 2,
+      "items": [
+        {
+          "id": "skillshub-ai-agent-skills-registry",
+          "title_en": "SkillsHub — AI Agent Skills Registry",
+          "url": "https://skillshub.wtf/skills?q=angular",
+          "importance": 2,
+          "lang": "en"
+        },
+        {
+          "id": "https-skillshub-wtf-api-v1-skills-search-q-angular",
+          "title_en": "https://skillshub.wtf/api/v1/skills/search?q=angular",
+          "url": "https://skillshub.wtf/api/v1/skills/search?q=angular",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "the-agent-skills-directory",
+          "title_en": "The Agent Skills Directory",
+          "url": "https://skills.sh/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "nextjs-dashboard-dssw-overview-vercel",
+          "title_en": "nextjs-dashboard-dssw - Overview – Vercel",
+          "url": "https://vercel.com/roman-pokludas-projects/nextjs-dashboard-dssw",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "coreyhaines31-marketingskills-marketing-skills-for-claude-code-and-ai-agents-cro-copywriting-seo-analytics-and-growth-engineering",
+          "title_en": "coreyhaines31/marketingskills: Marketing skills for Claude Code and AI agents. CRO, copywriting, SEO, analytics, and growth engineering.",
+          "url": "https://github.com/coreyhaines31/marketingskills",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "coding-for-marketers-learn-ai-coding-tools",
+          "title_en": "Coding for Marketers | Learn AI Coding Tools",
+          "url": "https://codingformarketers.com/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-skills",
+          "title_en": "angular/skills",
+          "url": "https://github.com/angular/skills",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "anthropics-skills-public-repository-for-agent-skills",
+          "title_en": "anthropics/skills: Public repository for Agent Skills",
+          "url": "https://github.com/anthropics/skills",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "built-a-cool-react-client-with-the-help-of-claude-basic-code-review-r-react",
+          "title_en": "Built a cool React client with the help of Claude (basic code review) : r/react",
+          "url": "https://www.reddit.com/r/react/comments/1q9ake6/built_a_cool_react_client_with_the_help_of_claude/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-build-an-app-with-claude-code-for-beginners-youtube",
+          "title_en": "How To Build An App With Claude Code [For Beginners] - YouTube",
+          "url": "https://www.youtube.com/watch?v=Lr0ELOcRy90",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "cursor-the-best-way-to-code-with-ai",
+          "title_en": "Cursor: The best way to code with AI",
+          "url": "https://cursor.com/home",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-use-claude-md-in-claude-code-in-5-minutes-youtube",
+          "title_en": "How to Use CLAUDE.md in Claude Code in 5 Minutes - YouTube",
+          "url": "https://www.youtube.com/watch?v=h7QJL2_gEXA",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "claude-code-tutorial-2-claude-md-files-init-youtube",
+          "title_en": "Claude Code Tutorial #2 - CLAUDE.md Files & /init - YouTube",
+          "url": "https://www.youtube.com/watch?v=i_OHQH4-M2Y",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "claude-md-guide-how-to-write-context-files",
+          "title_en": "CLAUDE.md Guide: How to Write Context Files",
+          "url": "https://hannahstulberg.substack.com/p/claude-code-for-everything-the-best-personal-assistant-remembers-everything-about-you",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "agent-skills-in-claude-a-practical-guide-for-angular-developers-angular-love",
+          "title_en": "Agent Skills in Claude – A Practical Guide for Angular Developers - Angular.love",
+          "url": "https://angular.love/agent-skills-in-claude-a-practical-guide-for-angular-developers",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "claude-code-angular-the-setup-that-changes-everything-by-angular-with-awais-mar-2026-medium",
+          "title_en": "Claude Code + Angular: The Setup That Changes Everything | by Angular_with_Awais | Mar, 2026 | Medium",
+          "url": "https://medium.com/@Angular_With_Awais/claude-code-angular-the-setup-that-changes-everything-c61125197beb",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "the-angular-team-released-a-set-of-instructions-to-help-llms-generate-correct-code-that-follows-angular-best-practices-r-angular2",
+          "title_en": "The Angular team released a set of instructions to help LLMs generate correct code that follows Angular best practices : r/Angular2",
+          "url": "https://www.reddit.com/r/Angular2/comments/1lhl9y8/the_angular_team_released_a_set_of_instructions/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "implementing-the-official-angular-claude-skills-angular-love",
+          "title_en": "Implementing the Official Angular Claude Skills - Angular.love",
+          "url": "https://angular.love/implementing-the-official-angular-claude-skills",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "claude-code-tutorial-2-claude-md-files-init-youtube",
+          "title_en": "Claude Code Tutorial #2 - CLAUDE.md Files & /init - YouTube",
+          "url": "https://www.youtube.com/watch?v=i_OHQH4-M2Y",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "the-angular-team-released-a-set-of-instructions-to-help-llms-generate-correct-code-that-follows-angular-best-practices-r-angular2",
+          "title_en": "The Angular team released a set of instructions to help LLMs generate correct code that follows Angular best practices : r/Angular2",
+          "url": "https://www.reddit.com/r/Angular2/comments/1lhl9y8/the_angular_team_released_a_set_of_instructions/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "llm-prompts-and-ai-ide-setup-angular",
+          "title_en": "LLM prompts and AI IDE setup • Angular",
+          "url": "https://angular.dev/ai/develop-with-ai",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-dev-assets-context-guidelines-md",
+          "title_en": "angular.dev/assets/context/guidelines.md",
+          "url": "https://angular.dev/assets/context/guidelines.md",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-i-start-every-claude-code-project-youtube",
+          "title_en": "How I Start EVERY Claude Code Project - YouTube",
+          "url": "https://www.youtube.com/watch?v=aQvpqlSiUIQ",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "a-complete-guide-to-claude-code-here-are-all-the-best-strategies-youtube",
+          "title_en": "A Complete Guide to Claude Code - Here are ALL the Best Strategies - YouTube",
+          "url": "https://www.youtube.com/watch?v=amEUIuBKwvg",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "claude-code-template-for-spring-boot-piotr-s-techblog",
+          "title_en": "Claude Code Template for Spring Boot - Piotr's TechBlog",
+          "url": "https://piotrminkowski.com/2026/03/24/claude-code-template-for-spring-boot/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": [
+        {
+          "id": "claude",
+          "name_en": "Claude",
+          "importance": 1,
+          "items": [
+            {
+              "id": "claude",
+              "title_en": "Claude",
+              "url": "https://claude.ai/new",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "claude-usage",
+              "title_en": "Claude usage",
+              "url": "https://claude.ai/settings/usage",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "quickstart-claude-code-docs",
+              "title_en": "Quickstart - Claude Code Docs",
+              "url": "https://code.claude.com/docs/en/quickstart",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "common-workflows-claude-code-docs",
+              "title_en": "Common workflows - Claude Code Docs",
+              "url": "https://code.claude.com/docs/en/common-workflows",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "best-practices-for-claude-code-claude-code-docs",
+              "title_en": "Best Practices for Claude Code - Claude Code Docs",
+              "url": "https://code.claude.com/docs/en/best-practices",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "how-claude-remembers-your-project-claude-code-docs",
+              "title_en": "How Claude remembers your project - Claude Code Docs",
+              "url": "https://code.claude.com/docs/en/memory#claude-md-files",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "using-claude-md-files-customizing-claude-code-for-your-codebase-claude",
+              "title_en": "Using CLAUDE.MD files: Customizing Claude Code for your codebase | Claude",
+              "url": "https://claude.com/blog/using-claude-md-files",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "agent-skills-claude-api-docs",
+              "title_en": "Agent Skills - Claude API Docs",
+              "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/overview",
+              "importance": 1,
+              "lang": "en"
+            },
+            {
+              "id": "claude-api-skill-claude-api-docs",
+              "title_en": "Claude API skill - Claude API Docs",
+              "url": "https://platform.claude.com/docs/en/agents-and-tools/agent-skills/claude-api-skill",
+              "importance": 1,
+              "lang": "en"
+            }
+          ],
+          "groups": []
+        },
+        {
+          "id": "springboot",
+          "name_en": "springboot",
+          "importance": 2,
+          "items": [
+            {
+              "id": "build-and-deploy-an-full-app-with-claude-code-in-2026-beginner-tutorial-youtube",
+              "title_en": "Build and deploy an full app with Claude Code in 2026 (beginner tutorial) - YouTube",
+              "url": "https://www.youtube.com/watch?app=desktop&v=sKBuSaaoN1Y",
+              "importance": 3,
+              "lang": "en"
+            }
+          ],
+          "groups": []
+        }
+      ]
+    },
+    {
+      "id": "angular",
+      "name_en": "Angular",
+      "importance": 2,
+      "items": [
+        {
+          "id": "angular",
+          "title_en": "Angular",
+          "url": "https://www.itnetwork.cz/javascript/angular",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "lekce-1-vod-do-angular-frameworku",
+          "title_en": "Lekce 1 - Úvod do Angular frameworku",
+          "url": "https://www.itnetwork.cz/javascript/angular/zaklady/uvod-do-angular-frameworku",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "z-klady-angular-frameworku",
+          "title_en": "Základy Angular frameworku",
+          "url": "https://www.itnetwork.cz/javascript/angular/zaklady",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "lekce-4-datab-zov-klient-v-angular-p-prava-projektu",
+          "title_en": "Lekce 4 - Databázový klient v Angular - Příprava projektu",
+          "url": "https://www.itnetwork.cz/javascript/angular/zaklady/databazovy-klient-v-angular-priprava-projektu",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "drag-and-drop-angular",
+          "title_en": "Drag and drop • Angular",
+          "url": "https://angular.dev/guide/drag-drop",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "end-to-end-testing-angular",
+          "title_en": "End-to-End Testing • Angular",
+          "url": "https://angular.dev/tools/cli/end-to-end",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "build-an-online-gift-store-in-angular-geeksforgeeks",
+          "title_en": "Build an Online Gift store in Angular - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/angular-js/build-an-online-gift-store-in-angular/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-create-a-to-do-list-using-drag-and-drop-in-angular-7-geeksforgeeks",
+          "title_en": "How to create a To-Do list using Drag and Drop in Angular 7 ? - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/angular-js/how-to-create-a-to-do-list-using-drag-and-drop-in-angular-7/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-tutorial-geeksforgeeks",
+          "title_en": "Angular Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/angular-js/angular-tutorial/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-standalone-components-complete-guide",
+          "title_en": "Angular Standalone Components: Complete Guide",
+          "url": "https://blog.angular-university.io/angular-standalone-components/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "start-a-web-application-with-angular-20",
+          "title_en": "Start a Web Application with Angular 20",
+          "url": "https://www.ganatan.com/en/tutorials/getting-started-with-angular",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "ganatan-angular-node-js-typescript-tutorials-modern-full-stack-development",
+          "title_en": "Ganatan - Angular, Node.js, TypeScript Tutorials & Modern Full-Stack Development",
+          "url": "https://www.ganatan.com/en/tutorials",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "server-side-rendering-with-angular-20",
+          "title_en": "Server side rendering with Angular 20",
+          "url": "https://www.ganatan.com/en/tutorials/server-side-rendering-with-angular-universal",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "what-is-zone-js-in-angular-learn-why-angular-removed-zone-js-its-by-sehban-alam-medium",
+          "title_en": "What is Zone.js in Angular?. Learn why Angular removed Zone.js, its… | by Sehban Alam | Medium",
+          "url": "https://medium.com/@sehban.alam/what-is-zone-js-in-angular-e0029c21c32f",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "github-wlucha-angular-starter-rocket-angular-20-starter-with-storybook-transloco-jest-tailwind-cypress-docker-eslint-material-prettier-rocket",
+          "title_en": "GitHub - wlucha/angular-starter: :rocket: Angular 20 Starter with Storybook, Transloco, Jest, Tailwind, Cypress, Docker, ESLint, Material & Prettier :rocket:",
+          "url": "https://github.com/wlucha/angular-starter",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "github-ganatan-angular-react-bootstrap-angular-20-react-18-bootstrap-5-fontawesome-6",
+          "title_en": "GitHub - ganatan/angular-react-bootstrap: Angular 20 & React 18, Bootstrap 5 , FontAwesome 6",
+          "url": "https://github.com/ganatan/angular-react-bootstrap",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "github-ganatan-angular-node-java-ai-angular-20-fullstack-starter-with-node-js-javascript-typescript-spring-boot-and-ai-llm-voice-podcast-includes-ssr-pwa-rest-apis-docker-and-ci-cd-pipelines",
+          "title_en": "GitHub - ganatan/angular-node-java-ai: Angular 20 Fullstack Starter with Node.js (JavaScript & TypeScript), Spring Boot, and AI (LLM, Voice, Podcast). Includes SSR, PWA, REST APIs, Docker, and CI/CD pipelines.",
+          "url": "https://github.com/ganatan/angular-node-java-ai",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-input-output-decorators-src-app-parent-parent-component-html-at-master-chilupa-angular-input-output-decorators-github",
+          "title_en": "angular-input-output-decorators/src/app/parent/parent.component.html at master · chilupa/angular-input-output-decorators · GitHub",
+          "url": "https://github.com/chilupa/angular-input-output-decorators/blob/master/src/app/parent/parent.component.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "input-output-eventemitter-angular-example-src-at-main-jonkirathe-input-output-eventemitter-angular-example-github",
+          "title_en": "Input-Output-EventEmitter-Angular-Example/src at main · jonkirathe/Input-Output-EventEmitter-Angular-Example · GitHub",
+          "url": "https://github.com/jonkirathe/Input-Output-EventEmitter-Angular-Example/tree/main/src",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-standalone-components-vs-traditional-modules-an-ultimate-guide-dev-community",
+          "title_en": "Angular Standalone Components vs. Traditional Modules: An Ultimate Guide - DEV Community",
+          "url": "https://dev.to/nicholajones075/angular-standalone-components-vs-traditional-modules-an-ultimate-guide-1923",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "um-mi-vysv-tlit-co-je-to-dependency-injection-r-csharp",
+          "title_en": "Umíš mi vysvětlit, co je to dependency injection? : r/csharp",
+          "url": "https://www.reddit.com/r/csharp/comments/ru9chz/can_you_explain_what_dependency_injection_is/?tl=cs",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mastering-dependency-injection-di-in-angular-by-ausaf-ahmad-medium",
+          "title_en": "Mastering Dependency Injection (DI) in Angular | by Ausaf Ahmad | Medium",
+          "url": "https://medium.com/@ausaf.cs/mastering-dependency-injection-di-in-angular-aa3344af31ea",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "building-reusable-components-with-input-and-output-in-angular-by-ausaf-ahmad-medium",
+          "title_en": "Building Reusable Components with Input and Output in Angular | by Ausaf Ahmad | Medium",
+          "url": "https://medium.com/@ausaf.cs/building-reusable-components-with-input-and-output-in-angular-37593b482e53",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "75-angularjs-interview-ot-zky-a-odpov-di-2025",
+          "title_en": "75 AngularJS Interview Otázky a odpovědi (2025)",
+          "url": "https://www.guru99.com/cs/angular-js-interview-questions.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-karti-ky-57-ot-zek-a-odpov-d-na-pohovory-o-angularu",
+          "title_en": "Angular Kartičky, 57 otázek a odpovědí na pohovory o Angularu",
+          "url": "https://www.itflashcards.com/cs/angular",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "best-typescript-backend-frameworks-in-2026-complete-comparison-encore",
+          "title_en": "Best TypeScript Backend Frameworks in 2026 - Complete Comparison – Encore",
+          "url": "https://encore.dev/articles/best-typescript-backend-frameworks",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "angular-libraries",
+      "name_en": "angular libraries",
+      "importance": 3,
+      "items": [
+        {
+          "id": "top-14-angular-libraries-in-2025-you-don-t-want-to-miss",
+          "title_en": "Top 14 Angular Libraries in 2025 You Don't Want to Miss",
+          "url": "https://www.angularminds.com/blog/top-angular-libraries-you-dont-want-to-miss",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-bootstrap",
+          "title_en": "Angular Bootstrap",
+          "url": "https://valor-software.com/ngx-bootstrap/documentation",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "ngx-bootstrap-npm",
+          "title_en": "ngx-bootstrap - npm",
+          "url": "https://www.npmjs.com/package/ngx-bootstrap",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-material-ui-component-library",
+          "title_en": "Angular Material UI component library",
+          "url": "https://material.angular.dev/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "schematics-angular-material",
+          "title_en": "Schematics • Angular Material",
+          "url": "https://material.angular.dev/guide/schematics",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "primeng-angular-ui-component-library",
+          "title_en": "PrimeNG - Angular UI Component Library",
+          "url": "https://primeng.org/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-button-component",
+          "title_en": "Angular Button Component",
+          "url": "https://primeng.org/button#basic",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "lists-material-design",
+          "title_en": "Lists - Material Design",
+          "url": "https://m2.material.io/components/lists",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "bootstrap",
+          "title_en": "Bootstrap",
+          "url": "https://www.itnetwork.cz/html-css/bootstrap",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "lekce-6-bootstrap-grid-syst-m-bootstrapu",
+          "title_en": "Lekce 6 - Bootstrap - Grid systém Bootstrapu",
+          "url": "https://www.itnetwork.cz/html-css/bootstrap/kurz/bootstrap-grid-system-bootstrapu",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "bootstrap-5-tutorial",
+          "title_en": "Bootstrap 5 Tutorial",
+          "url": "https://www.w3schools.com/bootstrap5/index.php",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "bootstrap",
+      "name_en": "bootstrap",
+      "importance": 3,
+      "items": [
+        {
+          "id": "get-started-with-bootstrap-bootstrap-v5-3",
+          "title_en": "Get started with Bootstrap · Bootstrap v5.3",
+          "url": "https://getbootstrap.com/docs/5.3/getting-started/introduction/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-powered-bootstrap",
+          "title_en": "Angular powered Bootstrap",
+          "url": "https://ng-bootstrap.github.io/#/home",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "kompletn-kurz-css-frameworku-bootstrap",
+          "title_en": "Kompletní kurz CSS frameworku Bootstrap",
+          "url": "https://www.itnetwork.cz/html-css/bootstrap/kurz",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "bootstrap-5-tutorial",
+          "title_en": "Bootstrap 5 Tutorial",
+          "url": "https://www.w3schools.com/bootstrap5/index.php",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "bootstrap-tutorial-geeksforgeeks",
+          "title_en": "Bootstrap Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/bootstrap/bootstrap-tutorial/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "node-js",
+      "name_en": "node.js",
+      "importance": 2,
+      "items": [
+        {
+          "id": "co-je-to-node-js-slovn-k-ciz-ch-slov-it-slovn-k-cz",
+          "title_en": "Co je to Node.js? - Slovník Cizích Slov - IT-Slovník.cz",
+          "url": "https://it-slovnik.cz/pojem/node-js",
+          "importance": 2,
+          "lang": "cz"
+        },
+        {
+          "id": "node-js-serverov-javascript",
+          "title_en": "Node.js - Serverový JavaScript",
+          "url": "https://www.itnetwork.cz/javascript/nodejs",
+          "importance": 2,
+          "lang": "cz"
+        },
+        {
+          "id": "node-js-tutorial",
+          "title_en": "Node.js Tutorial",
+          "url": "https://www.w3schools.com/nodejs/default.asp",
+          "importance": 2,
+          "lang": "en"
+        },
+        {
+          "id": "node-js-frameworks",
+          "title_en": "Node.js Frameworks",
+          "url": "https://www.w3schools.com/nodejs/nodejs_frameworks.asp",
+          "importance": 2,
+          "lang": "en"
+        },
+        {
+          "id": "v-ukov-program-node-js-pro-za-te-n-ky-nau-te-se-krok-za-krokem-za-3-dny",
+          "title_en": "Výukový program Node.js pro začátečníky: Naučte se krok za krokem za 3 dny",
+          "url": "https://www.guru99.com/cs/node-js-tutorial.html",
+          "importance": 2,
+          "lang": "en"
+        },
+        {
+          "id": "node-js-vs-angularjs-rozd-l-mezi-nimi",
+          "title_en": "Node.Js vs AngularJS – rozdíl mezi nimi",
+          "url": "https://www.guru99.com/cs/node-js-vs-angularjs.html",
+          "importance": 2,
+          "lang": "en"
+        },
+        {
+          "id": "node-js-tutorial-geeksforgeeks",
+          "title_en": "Node.js Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/node-js/nodejs/",
+          "importance": 2,
+          "lang": "en"
+        },
+        {
+          "id": "express-js-tutorial-geeksforgeeks",
+          "title_en": "Express.js Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/node-js/express-js/",
+          "importance": 2,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "electron",
+      "name_en": "electron",
+      "importance": 3,
+      "items": [
+        {
+          "id": "electron-1-st-kut-cz",
+          "title_en": "Electron, 1. část - Kutáč.cz",
+          "url": "https://www.kutac.cz/weby-a-vse-okolo/electron-1-cast",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "why-electron-electron",
+          "title_en": "Why Electron | Electron",
+          "url": "https://www.electronjs.org/docs/latest/why-electron",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "building-your-first-app-electron",
+          "title_en": "Building your First App | Electron",
+          "url": "https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "react",
+      "name_en": "React",
+      "importance": 3,
+      "items": [
+        {
+          "id": "kutia-software-company-react-js-starter-starter-project-for-react-js-developed-by-gentrit-halili",
+          "title_en": "kutia-software-company/react-js-starter: ⭐ Starter project for React Js. ✍️ Developed by Gentrit Halili.",
+          "url": "https://github.com/kutia-software-company/react-js-starter",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "quick-start-react",
+          "title_en": "Quick Start – React",
+          "url": "https://react.dev/learn",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "react-tutorial",
+          "title_en": "React Tutorial",
+          "url": "https://www.w3schools.com/react/default.asp",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "typescript-with-react-w3schools",
+          "title_en": "TypeScript with React - W3Schools",
+          "url": "https://www.w3schools.com/typescript/typescript_react.php",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "react-tutorial-geeksforgeeks",
+          "title_en": "React Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/reactjs/react/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "z-klady-react",
+          "title_en": "Základy React",
+          "url": "https://www.itnetwork.cz/javascript/react/zaklady",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "pokro-il-react",
+          "title_en": "Pokročilý React",
+          "url": "https://www.itnetwork.cz/javascript/react/pokrocily",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "react-bootstrap-react-bootstrap",
+          "title_en": "React Bootstrap | React Bootstrap",
+          "url": "https://react-bootstrap.netlify.app/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "react-typescript-hands-on-react",
+          "title_en": "React & TypeScript | Hands on React",
+          "url": "https://handsonreact.com/docs/react-typescript",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "10-best-react-typscript-example-on-github-themeselection",
+          "title_en": "10+ Best React TypScript Example on GitHub - ThemeSelection",
+          "url": "https://themeselection.com/react-typescript-example/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "react-node-app-bezkoder",
+          "title_en": "React + Node App - BezKoder",
+          "url": "https://www.bezkoder.com/react-node-app-github/#React_Node_MySQL",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "react-software-wikipedia",
+          "title_en": "React (software) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/React_(software)",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "what-are-the-features-of-reactjs-geeksforgeeks",
+          "title_en": "What are the features of ReactJS ? - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/reactjs/what-are-the-features-of-reactjs/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "main-features-of-react-that-developers-must-know-medium",
+          "title_en": "Main Features of React That Developers Must Know | Medium",
+          "url": "https://medium.com/@ojebiyifulness/5-main-features-of-react-js-that-developers-must-know-759e222d3699",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "function-components-vs-class-components-in-react-with-examples",
+          "title_en": "Function Components vs Class Components in React – With Examples",
+          "url": "https://www.freecodecamp.org/news/function-component-vs-class-component-in-react/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "when-to-use-a-class-component-over-a-function-component-in-reactjs-geeksforgeeks",
+          "title_en": "When to use a Class Component over a Function Component in ReactJS? - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/reactjs/when-to-use-a-class-component-over-a-function-component-in-reactjs/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "react-hooks-geeksforgeeks",
+          "title_en": "React Hooks - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/reactjs/reactjs-hooks/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "installation-react-router",
+          "title_en": "Installation | React Router",
+          "url": "https://reactrouter.com/start/framework/installation",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "lekce-1-react-vod-voxcafe-internet-full-service",
+          "title_en": "Lekce 1. - React - úvod | VOXCAFE - internet full service",
+          "url": "https://www.voxcafe.cz/mindblog/clanky/programovani/lekce1.html",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "z-klady-react",
+          "title_en": "Základy React",
+          "url": "https://www.itnetwork.cz/javascript/react/zaklady",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "offline-first-shopping-list-the-data-lab",
+          "title_en": "Offline First Shopping List – The Data Lab",
+          "url": "https://ibm-watson-data-lab.github.io/shopping-list-demo",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "introduction-yarn",
+          "title_en": "Introduction | Yarn",
+          "url": "https://yarnpkg.com/getting-started",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "getting-started-create-react-app",
+          "title_en": "Getting Started | Create React App",
+          "url": "https://create-react-app.dev/docs/getting-started/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "get-started-with-fullstack-development-react-springboot-mysql-postman-dev-community",
+          "title_en": "Get started with Fullstack Development: React + SpringBoot + MySQL + Postman - DEV Community",
+          "url": "https://dev.to/kajal_mapare24/get-started-with-fullstack-development-react-springboot-mysql-postman-5997",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "use-react-and-spring-boot-to-build-a-simple-crud-app-okta-developer",
+          "title_en": "Use React and Spring Boot to Build a Simple CRUD App | Okta Developer",
+          "url": "https://developer.okta.com/blog/2022/06/17/simple-crud-react-and-spring-boot",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "best-backend-technologies-for-react-geeksforgeeks",
+          "title_en": "Best Backend Technologies for React - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/blogs/backend-technologies-for-react/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": [
+        {
+          "id": "hooks",
+          "name_en": "hooks",
+          "importance": 3,
+          "items": [
+            {
+              "id": "react-hooks-geeksforgeeks",
+              "title_en": "React Hooks - GeeksforGeeks",
+              "url": "https://www.geeksforgeeks.org/reactjs/reactjs-hooks/",
+              "importance": 3,
+              "lang": "en"
+            },
+            {
+              "id": "lekce-9-react-hooks-praktick-pr-vodce-pro-za-te-n-ky-voxcafe-internet-full-service",
+              "title_en": "Lekce 9. - React Hooks: Praktický průvodce pro začátečníky | VOXCAFE - internet full service",
+              "url": "https://www.voxcafe.cz/mindblog/clanky/programovani/lekce9.html",
+              "importance": 3,
+              "lang": "cz"
+            },
+            {
+              "id": "all-react-hooks-explained-in-12-minutes-youtube",
+              "title_en": "ALL React Hooks Explained in 12 Minutes - YouTube",
+              "url": "https://www.youtube.com/watch?v=LOH1l-MP_9k",
+              "importance": 3,
+              "lang": "en"
+            },
+            {
+              "id": "react-hooks-kter-pot-ebujete-zn-t-zdroj-k",
+              "title_en": "React Hooks, které potřebujete znát - Zdroják",
+              "url": "https://zdrojak.cz/clanky/react-hooks-ktere-potrebujete-znat/",
+              "importance": 3,
+              "lang": "cz"
+            },
+            {
+              "id": "vod-do-react-hooks-by-miroslav-uhl-medium",
+              "title_en": "Úvod do React Hooks | by Miroslav Uhlíř | Medium",
+              "url": "https://medium.com/@mirek.uhlir/%C3%BAvod-do-react-hooks-a8b473d11694",
+              "importance": 3,
+              "lang": "en"
+            },
+            {
+              "id": "lekce-5-stavy-v-reactu-a-hook-usestate",
+              "title_en": "Lekce 5 - Stavy v Reactu a hook useState()",
+              "url": "https://www.itnetwork.cz/javascript/react/zaklady/stavy-v-reactu-a-hook-usestate",
+              "importance": 3,
+              "lang": "cz"
+            },
+            {
+              "id": "lekce-5-hooky-v-reactu-usestate-useeffect-a-useref",
+              "title_en": "Lekce 5 - Hooky v Reactu - useState(), useEffect() a useRef()",
+              "url": "https://www.itnetwork.cz/javascript/react/pokrocily/hooky-v-reactu-usestate-useeffect-a-useref",
+              "importance": 3,
+              "lang": "cz"
+            },
+            {
+              "id": "react-useeffect",
+              "title_en": "React useEffect",
+              "url": "https://www.w3schools.com/react/react_useeffect.asp",
+              "importance": 3,
+              "lang": "en"
+            },
+            {
+              "id": "useeffect-react",
+              "title_en": "useEffect – React",
+              "url": "https://react.dev/reference/react/useEffect",
+              "importance": 3,
+              "lang": "en"
+            }
+          ],
+          "groups": []
+        }
+      ]
+    },
+    {
+      "id": "vite",
+      "name_en": "vite",
+      "importance": 3,
+      "items": [
+        {
+          "id": "vite-next-generation-frontend-tooling",
+          "title_en": "Vite | Next Generation Frontend Tooling",
+          "url": "https://vite.dev/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "websocket",
+      "name_en": "Websocket",
+      "importance": 3,
+      "items": [
+        {
+          "id": "part-3-implementing-authentication-on-our-websocket-message-service-by-maria-junqueira-medium",
+          "title_en": "Part 3 — Implementing authentication on our WebSocket Message Service | by Maria Junqueira | Medium",
+          "url": "https://medium.com/@mariajunqueira/part-3-implementing-authentication-on-our-websocket-message-service-c4dd704ef16e",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "websockets-overview",
+          "title_en": "WebSockets - Overview",
+          "url": "https://www.tutorialspoint.com/websockets/websockets_overview.htm",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-websockets-tutorial-tutorialedge-net",
+          "title_en": "Angular Websockets Tutorial | TutorialEdge.net",
+          "url": "https://tutorialedge.net/typescript/angular/angular-websockets-tutorial/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "websocket-org-the-independent-websocket-reference",
+          "title_en": "WebSocket.org — The independent WebSocket reference",
+          "url": "https://websocket.org/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "websockets-in-react-hooks-lifecycle-and-pitfalls-websocket-org",
+          "title_en": "WebSockets in React: Hooks, Lifecycle, and Pitfalls | WebSocket.org",
+          "url": "https://websocket.org/guides/frameworks/react/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "node-js-websockets",
+          "title_en": "Node.js WebSockets",
+          "url": "https://www.w3schools.com/nodejs/nodejs_websockets.asp",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "vaadin",
+      "name_en": "Vaadin",
+      "importance": 3,
+      "items": [
+        {
+          "id": "building-views-and-navigating-between-them-in-vaadin-apps",
+          "title_en": "Building views and navigating between them in Vaadin apps",
+          "url": "https://vaadin.com/docs/latest/building-apps/views",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "guide-for-getting-started-with-vaadin",
+          "title_en": "Guide for Getting Started with Vaadin",
+          "url": "https://vaadin.com/docs/latest/getting-started",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-use-components-vaadin-components",
+          "title_en": "How to use Components | Vaadin components",
+          "url": "https://vaadin.com/docs/latest/components",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "create-a-new-vaadin-app-configure-views-and-theme",
+          "title_en": "Create a new Vaadin app: configure views and theme",
+          "url": "https://start.vaadin.com/app",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "vaadin-documentation-comprehensive-guide-for-developers",
+          "title_en": "Vaadin documentation | Comprehensive guide for developers",
+          "url": "https://vaadin.com/docs/latest",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "examples-and-demos-vaadin",
+          "title_en": "Examples and Demos | Vaadin",
+          "url": "https://vaadin.com/examples-and-demos",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "working-with-spring-boot-using-vaadin-with-spring-integrations-flow-vaadin-docs",
+          "title_en": "Working with Spring Boot | Using Vaadin with Spring | Integrations | Flow | Vaadin Docs",
+          "url": "https://vaadin.com/docs/v14/flow/integrations/spring/tutorial-spring-basic",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "building-a-web-ui-for-mysql-databases-in-plain-java-vaadin",
+          "title_en": "Building a web UI for MySQL databases (in plain Java) | Vaadin",
+          "url": "https://vaadin.com/blog/building-a-web-ui-for-mysql-databases-in-plain-java-",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": [
+        {
+          "id": "github",
+          "name_en": "github",
+          "importance": 3,
+          "items": [
+            {
+              "id": "vaadin-repositories",
+              "title_en": "vaadin repositories",
+              "url": "https://github.com/orgs/vaadin/repositories?page=3",
+              "importance": 3,
+              "lang": "en"
+            }
+          ],
+          "groups": []
+        }
+      ]
+    },
+    {
+      "id": "spring",
+      "name_en": "Spring",
+      "importance": 3,
+      "items": [
+        {
+          "id": "spring-initializr",
+          "title_en": "Spring Initializr",
+          "url": "https://start.spring.io/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "spring-boot",
+          "title_en": "Spring Boot",
+          "url": "https://spring.io/projects/spring-boot",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "spring-boot",
+          "title_en": "Spring Boot",
+          "url": "https://www.itnetwork.cz/java/spring-boot",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "co-je-java-spring-boot-vod-k-modulu-spring-boot-microsoft-azure",
+          "title_en": "Co je Java Spring Boot – úvod k modulu Spring Boot | Microsoft Azure",
+          "url": "https://azure.microsoft.com/cs-cz/resources/cloud-computing-dictionary/what-is-java-spring-boot",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "spring-boot-tutorial-geeksforgeeks",
+          "title_en": "Spring Boot Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/advance-java/spring-boot/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "spring-framework-p-edstaven-j2ee-lightweight-kontejneru-interval-cz",
+          "title_en": "Spring Framework - představení J2EE lightweight kontejneru | Interval.cz",
+          "url": "https://www.interval.cz/clanky/spring-framework-predstaveni-j2ee-lightweight-kontejneru/",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "spring-boot-mvc-crud-example-javatechonline",
+          "title_en": "Spring Boot MVC CRUD Example - JavaTechOnline",
+          "url": "https://javatechonline.com/spring-boot-mvc-crud-example/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "courses-spring-academy",
+          "title_en": "Courses - Spring Academy",
+          "url": "https://spring.academy/courses",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "getting-started-spring-boot-kubernetes",
+          "title_en": "Getting Started | Spring Boot Kubernetes",
+          "url": "https://spring.io/guides/gs/spring-boot-kubernetes",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "build-systems-spring-boot",
+          "title_en": "Build Systems :: Spring Boot",
+          "url": "https://docs.spring.io/spring-boot/reference/using/build-systems.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "arsy786-springboot-best-practices-this-repo-serves-as-a-guide-for-spring-boot-best-practices",
+          "title_en": "arsy786/springboot-best-practices: This repo serves as a guide for Spring Boot best practices!",
+          "url": "https://github.com/arsy786/springboot-best-practices",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "design-patterns-in-the-spring-framework-baeldung",
+          "title_en": "Design Patterns in the Spring Framework | Baeldung",
+          "url": "https://www.baeldung.com/spring-framework-design-patterns",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "spring-vs-spring-boot-geeksforgeeks",
+          "title_en": "Spring vs Spring Boot - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/java/difference-between-spring-and-spring-boot/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "spring-boot-starters-geeksforgeeks",
+          "title_en": "Spring Boot - Starters - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/springboot/spring-boot-starters/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": [
+        {
+          "id": "github",
+          "name_en": "github",
+          "importance": 3,
+          "items": [
+            {
+              "id": "suhaskamate-business-management-project-it-s-business-related-web-application-dynamic-developed-using-spring-boot-for-the-backend-and-thymeleaf-for-the-front-end-and-mysql-as-a-database",
+              "title_en": "SuhasKamate/Business_Management_Project: It's Business Related Web Application (dynamic) developed using SPRING BOOT for the backend and THYMELEAF for the front-end and MySQL as a DataBase",
+              "url": "https://github.com/SuhasKamate/Business_Management_Project",
+              "importance": 3,
+              "lang": "en"
+            },
+            {
+              "id": "in28minutes-spring-boot-examples-code-examples-for-everything-thats-written-on-www-springboottutorial-com",
+              "title_en": "in28minutes/spring-boot-examples: Code Examples for everything thats written on www.springboottutorial.com",
+              "url": "https://github.com/in28minutes/spring-boot-examples",
+              "importance": 3,
+              "lang": "en"
+            },
+            {
+              "id": "spring-projects-spring-boot-spring-boot-helps-you-to-create-spring-powered-production-grade-applications-and-services-with-absolute-minimum-fuss",
+              "title_en": "spring-projects/spring-boot: Spring Boot helps you to create Spring-powered, production-grade applications and services with absolute minimum fuss.",
+              "url": "https://github.com/spring-projects/spring-boot",
+              "importance": 3,
+              "lang": "en"
+            }
+          ],
+          "groups": []
+        }
+      ]
+    },
+    {
+      "id": "swing",
+      "name_en": "Swing",
+      "importance": 3,
+      "items": [
+        {
+          "id": "tutorial-build-ui-using-swing-intellij-idea-documentation",
+          "title_en": "Tutorial: Build UI using Swing | IntelliJ IDEA Documentation",
+          "url": "https://www.jetbrains.com/help/idea/design-gui-using-swing.html#new_gui_form",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "jetbrains-build-ui-using-swing-sample-project",
+          "title_en": "JetBrains/build-UI-using-Swing-sample-project",
+          "url": "https://github.com/JetBrains/build-UI-using-Swing-sample-project/tree/main",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "sql",
+      "name_en": "sql",
+      "importance": 3,
+      "items": [
+        {
+          "id": "sql-tutorial",
+          "title_en": "SQL Tutorial",
+          "url": "https://www.w3schools.com/sql/default.asp",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mysql-examples",
+          "title_en": "MySQL Examples",
+          "url": "https://www.w3schools.com/mysql/mysql_examples.asp",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "r-zn-spojen-v-sql-spojeni-v-sql-pdf",
+          "title_en": "Různá spojení v SQL - spojeni-v-SQL.pdf",
+          "url": "https://apollo.inf.upol.cz/~urbanec/teaching/2021/data2/files/spojeni-v-SQL.pdf",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "sql-join-lovely-data",
+          "title_en": "SQL — JOIN | Lovely Data",
+          "url": "https://www.lovelydata.cz/blog/sql-join/",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "mysql-mysql-8-4-reference-manual-15-1-12-create-database-statement",
+          "title_en": "MySQL :: MySQL 8.4 Reference Manual :: 15.1.12 CREATE DATABASE Statement",
+          "url": "https://dev.mysql.com/doc/refman/8.4/en/create-database.html",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "crud",
+      "name_en": "CRUD",
+      "importance": 3,
+      "items": [
+        {
+          "id": "angular-crud-operations-using-http",
+          "title_en": "Angular - CRUD Operations Using HTTP",
+          "url": "https://www.tutorialspoint.com/angular/angular-curd-operations-using-http.htm",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "httpclient-with-angular",
+          "title_en": "HttpClient with angular",
+          "url": "https://www.ganatan.com/en/tutorials/httpclient-with-angular",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "mongodb",
+      "name_en": "mongodb",
+      "importance": 3,
+      "items": [
+        {
+          "id": "project-overview-cloud-mongodb-cloud",
+          "title_en": "Project Overview | Cloud: MongoDB Cloud",
+          "url": "https://cloud.mongodb.com/v2/68b960c6b8b8550d13eae0d6#/overview",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "typescript-integration-with-mongodb-guide-mongodb",
+          "title_en": "TypeScript Integration With MongoDB Guide | MongoDB",
+          "url": "https://www.mongodb.com/resources/products/compatibilities/using-typescript-with-mongodb-tutorial",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "nestjs-with-mongodb-mongoose-readme-md-at-master-stuyy-nestjs-with-mongodb-mongoose-github",
+          "title_en": "nestjs-with-mongodb-mongoose/README.md at master · stuyy/nestjs-with-mongodb-mongoose · GitHub",
+          "url": "https://github.com/stuyy/nestjs-with-mongodb-mongoose/blob/master/README.md",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "building-a-crud-application-with-nestjs-and-mongodb-dev-community",
+          "title_en": "Building a CRUD Application with NestJS and MongoDB - DEV Community",
+          "url": "https://dev.to/manthanank/building-a-crud-application-with-nestjs-and-mongodb-52o2",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "using-nestjs-with-mongodb-a-complete-guide-by-rnab-medium",
+          "title_en": "Using NestJS with MongoDB: A Complete Guide | by @rnab | Medium",
+          "url": "https://arnab-k.medium.com/using-nestjs-with-mongodb-a-complete-guide-81db9dbd4ea5",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "crud-application-with-nestjs-and-mongodb-using-mongoose-by-niranjan-gawali-globant-medium",
+          "title_en": "CRUD application with NestJS and MongoDB using Mongoose | by Niranjan Gawali | Globant | Medium",
+          "url": "https://medium.com/globant/crud-application-using-nestjs-and-mongodb-99a0756adb76",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "step-by-step-guide-building-a-typescript-crud-rest-api-with-express-js-and-mongodb-by-felix-pratamasan-medium",
+          "title_en": "Step-by-Step Guide: Building a TypeScript CRUD REST API with Express.js and MongoDB | by Felix Pratamasan | Medium",
+          "url": "https://medium.com/@felixpratama242/crud-using-express-js-typescript-and-mongodb-0504b2617bf1",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "crud-application-with-nodejs-and-mongodb-using-typescript-by-rovin-singh-jun-2024-medium-medium",
+          "title_en": "CRUD application with NodeJs and MongoDB using TypeScript| by Rovin Singh | Jun, 2024 | Medium | Medium",
+          "url": "https://medium.com/@rovin.singh/crud-application-with-nodejs-and-mongodb-using-mongoose-d7b0a1345dd7",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "github-kannndev-node-mongo-typescript-crud-application-using-node-mongodb-and-typescript",
+          "title_en": "GitHub - Kannndev/node-mongo-typescript: Crud application using node, mongodb and typescript",
+          "url": "https://github.com/Kannndev/node-mongo-typescript",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "github-fyupanquia-shop-api-nestjs-and-mongodb",
+          "title_en": "GitHub - fyupanquia/shop-api: NestJS and MongoDB",
+          "url": "https://github.com/fyupanquia/shop-api/tree/master",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mongodb-mongosh-find",
+          "title_en": "MongoDB mongosh Find",
+          "url": "https://www.w3schools.com/mongodb/mongodb_mongosh_find.php",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "nestjs",
+      "name_en": "nestjs",
+      "importance": 3,
+      "items": [
+        {
+          "id": "vod-do-nestjs-ahoj-nestjs-by-jakub-l-ffelmann-livesport-dev-medium",
+          "title_en": "Úvod do NestJS. Ahoj, NestJS! | by Jakub Löffelmann | Livesport Dev | Medium",
+          "url": "https://medium.com/livesport-dev/%C3%BAvod-do-nestjs-925723eb5036",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "github-cfvillarroel-nestjs-mongodb-app-nestjs-application-connected-to-a-mongodb-using-mongoose",
+          "title_en": "GitHub - Cfvillarroel/nestjs-mongodb-app: NestJS Application connected to a MongoDB using Mongoose",
+          "url": "https://github.com/Cfvillarroel/nestjs-mongodb-app/tree/master",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "nest-js-brings-typescript-to-node-js-and-express",
+          "title_en": "Nest.js Brings TypeScript to Node.js and Express",
+          "url": "https://auth0.com/blog/nestjs-brings-typescript-to-nodejs-and-express/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "app-router-next-js",
+          "title_en": "App Router | Next.js",
+          "url": "https://nextjs.org/learn/dashboard-app",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "rxjs",
+      "name_en": "RxJS",
+      "importance": 3,
+      "items": [
+        {
+          "id": "rxjs-observable",
+          "title_en": "RxJS - Observable",
+          "url": "https://rxjs.dev/guide/observable",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-17-data-sharing-with-behaviorsubjects-a-simple-guide-by-mohsin-ansari-medium",
+          "title_en": "Angular 17 Data Sharing with BehaviorSubjects: A Simple Guide | by Mohsin Ansari | Medium",
+          "url": "https://medium.com/@mohsinansari.dev/angular-17-data-sharing-with-behaviorsubjects-a-simple-guide-bab56530c832",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "javascript-what-is-the-difference-between-behaviorsubject-and-observable-stack-overflow",
+          "title_en": "javascript - What is the difference between BehaviorSubject and Observable? - Stack Overflow",
+          "url": "https://stackoverflow.com/questions/39494058/what-is-the-difference-between-behaviorsubject-and-observable",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "what-is-the-difference-between-promises-and-observables-in-angular-geeksforgeeks",
+          "title_en": "What is the Difference Between Promises and Observables in Angular ? - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/angular-js/what-is-the-difference-between-promises-and-observables-in-angular/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-using-observables-for-streams-of-values",
+          "title_en": "Angular - Using observables for streams of values",
+          "url": "https://v17.angular.io/guide/observables",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "reading-the-rxjs-6-sources-map-and-pipe",
+          "title_en": "Reading the RxJS 6 Sources: Map and Pipe",
+          "url": "https://angular.love/reading-the-rxjs-6-sources-map-and-pipe",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-development-best-practices-observable-promise-and-signals-dev-community",
+          "title_en": "Angular development best practices: Observable, Promise and Signals - DEV Community",
+          "url": "https://dev.to/soumayaerradi/angular-development-best-practices-observable-promise-and-signals-a9p",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mastering-angular-a-beginner-s-guide-to-observables-and-pipes-by-vivek-singh-medium",
+          "title_en": "Mastering Angular: A Beginner’s Guide to Observables and Pipes | by Vivek Singh | Medium",
+          "url": "https://medium.com/@viiveksingh93/mastering-angular-a-beginners-guide-to-observables-and-pipes-a339fe3a30a8",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "a-complete-guide-to-angular-pipes-by-ausaf-ahmad-medium",
+          "title_en": "A Complete Guide to Angular Pipes | by Ausaf Ahmad | Medium",
+          "url": "https://medium.com/@ausaf.cs/a-complete-guide-to-angular-pipes-f44670baccfc",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "rxjs-example-stackblitz",
+          "title_en": "RxJS example - StackBlitz",
+          "url": "https://stackblitz.com/run?devtoolsheight=50&file=index.ts",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "rxjs-of-and-from-angular-newsletter",
+          "title_en": "RxJs of() and from() | Angular Newsletter",
+          "url": "https://www.angulartraining.com/daily-newsletter/rxjs-of-and-from/?srsltid=AfmBOopxSJ7UTrDKeK681k0mZDKVZUntrCgtFRzbRaUAlBn98mdwQKxx",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "signal",
+      "name_en": "signal",
+      "importance": 3,
+      "items": [
+        {
+          "id": "signals-overview-angular",
+          "title_en": "Signals • Overview • Angular",
+          "url": "https://angular.dev/guide/signals",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "reactivity-with-signals-angular",
+          "title_en": "Reactivity with signals • Angular",
+          "url": "https://angular.dev/essentials/signals",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-signals-complete-guide",
+          "title_en": "Angular Signals: Complete Guide",
+          "url": "https://blog.angular-university.io/angular-signals/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-signals-from-zero-to-hero-dev-community",
+          "title_en": "Angular Signals: From Zero to Hero - DEV Community",
+          "url": "https://dev.to/soumayaerradi/angular-signals-from-zero-to-hero-4j2d",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "signals-in-angular-geeksforgeeks",
+          "title_en": "Signals in Angular - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/angular-js/signals-in-angular/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-basics-signals",
+          "title_en": "Angular Basics: Signals",
+          "url": "https://www.telerik.com/blogs/angular-basics-signals",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-signals-vs-observables-how-and-when-to-use-each-logrocket-blog",
+          "title_en": "Angular signals vs. observables: How and when to use each - LogRocket Blog",
+          "url": "https://blog.logrocket.com/angular-signals-vs-observables/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "java",
+      "name_en": "java",
+      "importance": 3,
+      "items": [
+        {
+          "id": "java-zaklady-pdf",
+          "title_en": "java-zaklady.pdf",
+          "url": "https://java.vse.cz/pdf/java-zaklady.pdf",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "lekce-1-vod-do-jazyka-java",
+          "title_en": "Lekce 1 - Úvod do jazyka Java",
+          "url": "https://www.itnetwork.cz/java/zaklady/java-tutorial-uvod-do-jazyka-java",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "lekce-1-factory-tov-rn-metoda",
+          "title_en": "Lekce 1 - Factory (tovární metoda)",
+          "url": "https://www.itnetwork.cz/navrh/navrhove-vzory/gof/factory",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "t-dic-adic-algoritmy",
+          "title_en": "Třídicí/řadicí algoritmy",
+          "url": "https://www.itnetwork.cz/algoritmy/razeni",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "java-software-platform-wikipedia",
+          "title_en": "Java (software platform) - Wikipedia",
+          "url": "https://en.wikipedia.org/wiki/Java_(software_platform)",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "java-programovac-jazyk-wikipedie",
+          "title_en": "Java (programovací jazyk) – Wikipedie",
+          "url": "https://cs.wikipedia.org/wiki/Java_(programovac%C3%AD_jazyk)",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "jdk-wikipedie",
+          "title_en": "JDK – Wikipedie",
+          "url": "https://cs.wikipedia.org/wiki/JDK",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "java-tutori-l-guru99",
+          "title_en": "Java Tutoriál – Guru99",
+          "url": "https://www.guru99.com/cs/java-tutorial.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "jdk-vs-jre-vs-jvm-in-java-rozd-l-mezi-nimi",
+          "title_en": "JDK vs JRE vs JVM in Java – Rozdíl mezi nimi",
+          "url": "https://www.guru99.com/cs/difference-between-jdk-jre-jvm.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "student-management-system-src-pages-viewallstudents-java-at-main-jaigora24-student-management-system",
+          "title_en": "Student-Management-System/src/pages/ViewAllStudents.java at main · jaigora24/Student-Management-System",
+          "url": "https://github.com/jaigora24/Student-Management-System/blob/main/src/pages/ViewAllStudents.java",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "metalaz-swing-app-this-example-app-demonstrates-how-java-swing-is-a-viable-option-for-cross-platform-desktop-applications-in-2022",
+          "title_en": "MetalAZ/swing-app: This example app demonstrates how Java Swing is a viable option for cross-platform desktop applications in 2022.",
+          "url": "https://github.com/MetalAZ/swing-app",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "tutorial-build-ui-using-swing-intellij-idea-documentation",
+          "title_en": "Tutorial: Build UI using Swing | IntelliJ IDEA Documentation",
+          "url": "https://www.jetbrains.com/help/idea/design-gui-using-swing.html#set_up_JPanel",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "using-swing-components-examples-the-java-tutorials-creating-a-gui-with-swing-using-swing-components",
+          "title_en": "Using Swing Components: Examples (The Java™ Tutorials > Creating a GUI with Swing > Using Swing Components)",
+          "url": "https://docs.oracle.com/javase/tutorial/uiswing/examples/components/index.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "introduction-to-spring-framework-geeksforgeeks",
+          "title_en": "Introduction to Spring Framework - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/advance-java/introduction-to-spring-framework/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "t-mata-a-seznam-20-nejefektivn-j-ch-pohovorov-ch-ot-zek-o-programov-n-v-jazyce-java",
+          "title_en": "Témata a seznam 20 nejefektivnějších pohovorových otázek o programování v jazyce Java",
+          "url": "https://www.advisedskills.com/cs/blog/studium/t%C3%A9mata-a-seznam-20-nejefektivn%C4%9Bj%C5%A1%C3%ADch-dotaz%C5%AF-na-pohovor-o-programov%C3%A1n%C3%AD-v-jazyce-Java",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "100-java-ot-zky-a-odpov-di-na-pohovor-2026",
+          "title_en": "100+ Java Otázky a odpovědi na pohovor (2026)",
+          "url": "https://www.guru99.com/cs/java-interview-questions-answers.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "100-java-ot-zky-a-odpov-di-na-pohovor-2025",
+          "title_en": "100+ Java Otázky a odpovědi na pohovor (2025)",
+          "url": "https://www.guru99.com/cs/java-interview-questions-answers.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "37-java-interview-questions-and-answers",
+          "title_en": "37+ Java Interview Questions and Answers",
+          "url": "https://www.mygreatlearning.com/blog/java-interview-questions/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "35-java-8-ot-zek-a-odpov-d-v-rozhovoru-2026",
+          "title_en": "35+ Java 8 otázek a odpovědí v rozhovoru (2026)",
+          "url": "https://www.guru99.com/cs/java-8-interview-questions.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "java-prom-nn-a-datov-typy",
+          "title_en": "Java Proměnné a datové typy",
+          "url": "https://www.guru99.com/cs/java-variables.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "java-13-abstraktn-t-dy-a-rozhran",
+          "title_en": "Java (13) - Abstraktní třídy a rozhraní",
+          "url": "https://www.algoritmy.net/article/23831/Rozhrani-13",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "rxjava-reactive-extensions-for-the-jvm",
+          "title_en": "RxJava - Reactive Extensions for the JVM",
+          "url": "https://www.rxjava.com/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "reactivex",
+          "title_en": "ReactiveX",
+          "url": "https://reactivex.io/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "java8",
+      "name_en": "java8",
+      "importance": 3,
+      "items": [
+        {
+          "id": "java-8-tutorials-mkyong-com",
+          "title_en": "Java 8 Tutorials - Mkyong.com",
+          "url": "https://mkyong.com/tutorials/java-8-tutorials/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "java8-archives-mkyong-com",
+          "title_en": "java8 Archives - Mkyong.com",
+          "url": "https://mkyong.com/java8",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "css",
+      "name_en": "css",
+      "importance": 3,
+      "items": [
+        {
+          "id": "jak-ps-t-modern-web-html-a-css",
+          "title_en": "Jak psát moderní web (HTML a CSS)",
+          "url": "https://www.itnetwork.cz/html-css",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "css-tutorial",
+          "title_en": "CSS Tutorial",
+          "url": "https://www.w3schools.com/css/default.asp",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "css-templates",
+          "title_en": "CSS Templates",
+          "url": "https://www.w3schools.com/css/css_templates.asp",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "css-tutorial-geeksforgeeks",
+          "title_en": "CSS Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/css/css-tutorial/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "css-examples-geeksforgeeks",
+          "title_en": "CSS Examples - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/css/css-examples/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "docker",
+      "name_en": "docker",
+      "importance": 3,
+      "items": [
+        {
+          "id": "introduction-docker-docs",
+          "title_en": "Introduction | Docker Docs",
+          "url": "https://docs.docker.com/get-started/introduction/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "building-images-docker-docs",
+          "title_en": "Building images | Docker Docs",
+          "url": "https://docs.docker.com/get-started/docker-concepts/building-images/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "docker-compose-docker-docs",
+          "title_en": "Docker Compose | Docker Docs",
+          "url": "https://docs.docker.com/guides/docker-compose/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "get-docker-desktop-docker-docs",
+          "title_en": "Get Docker Desktop | Docker Docs",
+          "url": "https://docs.docker.com/get-started/introduction/get-docker-desktop/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "docker-kubernetes-a-kontejnery-jak-funguj-a-pro-je-cht-t",
+          "title_en": "Docker, Kubernetes a kontejnery. Jak fungují a proč je chtít",
+          "url": "https://www.master.cz/blog/docker-kubernetes-kontejnery-jak-funguji-proc-je-chtit/",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "what-is-docker-geeksforgeeks",
+          "title_en": "What is Docker? - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/devops/introduction-to-docker/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "translations",
+      "name_en": "translations",
+      "importance": 3,
+      "items": [
+        {
+          "id": "angular-i18n-how-to-internationalize-with-ngx-translate-phrase",
+          "title_en": "Angular I18n: How to Internationalize with ngx-translate | Phrase",
+          "url": "https://phrase.com/blog/posts/angular-i18n-ngx-translate/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-translate-angular-components-with-ngx-translate-ngx-translate",
+          "title_en": "How to Translate Angular Components with ngx-translate | ngx-translate",
+          "url": "https://ngx-translate.org/getting-started/translating-your-components/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-translate-your-angular-app-with-ngx-translate",
+          "title_en": "How to Translate Your Angular App with NGX-Translate",
+          "url": "https://www.codeandweb.com/babeledit/tutorials/how-to-translate-your-angular-app-with-ngx-translate",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "caching",
+      "name_en": "caching",
+      "importance": 3,
+      "items": [
+        {
+          "id": "intercepting-requests-and-responses-angular",
+          "title_en": "Intercepting requests and responses • Angular",
+          "url": "https://angular.dev/guide/http/interceptors",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "nigrosimone-ng-http-caching-cache-for-http-requests-in-angular-application",
+          "title_en": "nigrosimone/ng-http-caching: Cache for HTTP requests in Angular application.",
+          "url": "https://github.com/nigrosimone/ng-http-caching/tree/master",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "caching-api-requests-in-angular-better-faster-and-stronger-by-koye-mohan-reddy-medium",
+          "title_en": "Caching API Requests in Angular : Better , Faster and Stronger | by Koye Mohan Reddy | Medium",
+          "url": "https://mohanbyte.medium.com/caching-api-requests-in-angular-better-faster-and-stronger-b3aa7c675be4",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "interceptors-in-angular-an-interceptor-is-a-special-service-by-b-a-ej-skrzypniak-medium",
+          "title_en": "Interceptors in Angular. An interceptor is a special service… | by Błażej Skrzypniak | Medium",
+          "url": "https://medium.com/@angir777/interceptors-in-angular-750bc997b520",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "angular-http-interceptors-angular-applications-frequently-by-sachin-kondana-medium",
+          "title_en": "Angular HTTP Interceptors. Angular applications frequently… | by Sachin Kondana | Medium",
+          "url": "https://medium.com/@sachin.kondana/mastering-api-calls-demystifying-angular-http-interceptors-2244b0bfcf35",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "vue-js",
+      "name_en": "Vue.js",
+      "importance": 3,
+      "items": [
+        {
+          "id": "vue",
+          "title_en": "Vue",
+          "url": "https://www.itnetwork.cz/javascript/vuejs",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "examples-vue-js",
+          "title_en": "Examples | Vue.js",
+          "url": "https://vuejs.org/examples/#hello-world",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "quick-start-vue-js",
+          "title_en": "Quick Start | Vue.js",
+          "url": "https://vuejs.org/guide/quick-start",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "z-klady-komponent-vue-js",
+          "title_en": "Základy komponent | Vue.js",
+          "url": "https://cs.vuejs.org/guide/essentials/component-basics",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "p-klady-vue-js",
+          "title_en": "Příklady | Vue.js",
+          "url": "https://cs.vuejs.org/examples/#grid",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "next-js",
+      "name_en": "next.js",
+      "importance": 3,
+      "items": [
+        {
+          "id": "app-router-guides-next-js",
+          "title_en": "App Router: Guides | Next.js",
+          "url": "https://nextjs.org/docs/app/guides",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "react-foundations-about-react-and-next-js-next-js",
+          "title_en": "React Foundations: About React and Next.js | Next.js",
+          "url": "https://nextjs.org/learn/react-foundations/what-is-react-and-nextjs",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "pages-router-next-js",
+          "title_en": "Pages Router | Next.js",
+          "url": "https://nextjs.org/learn/pages-router",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "next-js-examples-at-canary-vercel-next-js",
+          "title_en": "next.js/examples at canary · vercel/next.js",
+          "url": "https://github.com/vercel/next.js/tree/canary/examples",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "installing-tailwind-css-with-vite-tailwind-css",
+          "title_en": "Installing Tailwind CSS with Vite - Tailwind CSS",
+          "url": "https://tailwindcss.com/docs/installation/using-vite",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "a-guide-for-next-js-with-typescript-refine",
+          "title_en": "A Guide for Next.js with TypeScript | Refine",
+          "url": "https://refine.dev/blog/next-js-with-typescript/#adding-typescript-to-an-existing-project",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "next-js-tutorial-geeksforgeeks",
+          "title_en": "Next.js Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/nextjs/nextjs-tutorial/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "microservices",
+      "name_en": "microservices",
+      "importance": 3,
+      "items": [
+        {
+          "id": "how-to-build-a-microservices-architecture-with-nodejs-geeksforgeeks",
+          "title_en": "How to Build a Microservices Architecture with NodeJS - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/node-js/how-to-build-a-microservices-architecture-with-nodejs/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "a-complete-guide-to-building-microservices-with-node-js-apriorit",
+          "title_en": "A Complete Guide to Building Microservices with Node.js - Apriorit",
+          "url": "https://www.apriorit.com/dev-blog/how-to-build-microservices-with-node-js",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "building-microservices-with-node-js-logrocket-blog",
+          "title_en": "Building microservices with Node.js - LogRocket Blog",
+          "url": "https://blog.logrocket.com/building-microservices-node-js/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mastering-microservices-a-hands-on-tutorial-with-node-js-rabbitmq-nginx-and-docker-dev-community",
+          "title_en": "Mastering Microservices: A Hands-On Tutorial with Node.js, RabbitMQ, Nginx, and Docker - DEV Community",
+          "url": "https://dev.to/davydocsurg/mastering-microservices-a-hands-on-tutorial-with-nodejs-rabbitmq-nginx-and-docker-m4f",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "node-js-microservices",
+          "title_en": "Node.js Microservices",
+          "url": "https://www.w3schools.com/nodejs/nodejs_microservices.asp",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mastering-microservices-with-node-js-a-step-by-step-guide-by-aziz-marzouki-medium",
+          "title_en": "Mastering Microservices with Node.js: A Step-by-Step Guide | by Aziz Marzouki | Medium",
+          "url": "https://medium.com/@azizmarzouki/mastering-microservices-with-node-js-a-step-by-step-guide-0aa0020cd27a",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "chat-server-gateway-package-json-at-develop-davydocsurg-chat-server",
+          "title_en": "chat-server/gateway/package.json at develop · davydocsurg/chat-server",
+          "url": "https://github.com/davydocsurg/chat-server/blob/develop/gateway/package.json",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "building-a-complete-microservices-backend-environment-with-node-js-a-comprehensive-guide-by-clement-bonal-medium",
+          "title_en": "Building a Complete Microservices Backend Environment with Node.js: A Comprehensive Guide | by Clement Bonal | Medium",
+          "url": "https://medium.com/@clementbonal/building-a-complete-microservices-backend-environment-with-node-js-a-comprehensive-guide-3a8205bfbb37",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "apache-kafka",
+      "name_en": "Apache Kafka",
+      "importance": 3,
+      "items": [
+        {
+          "id": "kafka-tutorial-for-beginners-everything-you-need-to-get-started-youtube",
+          "title_en": "Kafka Tutorial for Beginners | Everything you need to get started - YouTube",
+          "url": "https://www.youtube.com/watch?v=QkdkLdMBuL0",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "apache-kafka-tutorial-introduction-for-beginners-automq-automq-wiki",
+          "title_en": "Apache Kafka Tutorial: Introduction for Beginners · AutoMQ/automq Wiki",
+          "url": "https://github.com/AutoMQ/automq/wiki/Apache-Kafka-Tutorial:-Introduction-for-Beginners",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "apache-kafka-tutorial",
+          "title_en": "Apache Kafka tutorial",
+          "url": "https://www.redpanda.com/guides/kafka-architecture-apache-kafka-tutorial",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "apache-kafka-distribuovan-streamovac-platforma-root-cz",
+          "title_en": "Apache Kafka: distribuovaná streamovací platforma - Root.cz",
+          "url": "https://www.root.cz/clanky/apache-kafka-distribuovana-streamovaci-platforma/#k01",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "what-is-apache-kafka-geeksforgeeks",
+          "title_en": "What is Apache Kafka? - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/apache-kafka/apache-kafka/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-access-data-in-apache-kafka-using-apache-flink-youtube",
+          "title_en": "How to access data in Apache Kafka using Apache Flink - YouTube",
+          "url": "https://www.youtube.com/watch?v=7RPQUsy4qOM",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "apache-kafka",
+          "title_en": "Apache Kafka",
+          "url": "https://kafka.apache.org/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "ionic",
+      "name_en": "ionic",
+      "importance": 3,
+      "items": [
+        {
+          "id": "ionic-framework-the-cross-platform-app-development-leader",
+          "title_en": "Ionic Framework - The Cross-Platform App Development Leader",
+          "url": "https://ionicframework.com/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "open-source-ui-toolkit-to-create-your-own-mobile-apps",
+          "title_en": "Open-Source UI Toolkit to Create Your Own Mobile Apps",
+          "url": "https://ionicframework.com/docs/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "starting-an-app-how-to-guide-ionic-documentation",
+          "title_en": "Starting an App: How to Guide | Ionic Documentation",
+          "url": "https://ionicframework.com/docs/developing/starting",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "ui-components-user-interface-application-building-components",
+          "title_en": "UI Components | User Interface Application Building Components",
+          "url": "https://ionicframework.com/docs/components",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "next-steps-for-starting-an-app-choose-your-javascript-framework",
+          "title_en": "Next Steps for Starting an App: Choose Your JavaScript Framework",
+          "url": "https://ionicframework.com/docs/intro/next#build-your-first-app",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "awesome-ionic-ionic-react-md-at-master-alexintosh-awesome-ionic",
+          "title_en": "Awesome-Ionic/ionic-react.md at master · Alexintosh/Awesome-Ionic",
+          "url": "https://github.com/Alexintosh/Awesome-Ionic/blob/master/ionic-react.md",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "ionic-react-tutorial-for-beginners-youtube",
+          "title_en": "Ionic + React - Tutorial for Beginners - YouTube",
+          "url": "https://www.youtube.com/watch?v=_03VKmdrxV8",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "ionic-storage-ui-ionic-react-hub",
+          "title_en": "Ionic Storage UI - Ionic React Hub",
+          "url": "https://ionicreacthub.com/ionic-react-storage-ui",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "ionic-tutorial",
+          "title_en": "Ionic Tutorial",
+          "url": "https://www.tutorialspoint.com/ionic/index.htm",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "appflow-dashboard",
+          "title_en": "Appflow Dashboard",
+          "url": "https://dashboard.ionicframework.com/app/e959bfa7/build/environments",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "capacitor-by-ionic-cross-platform-apps-with-web-technology",
+          "title_en": "Capacitor by Ionic - Cross-platform apps with web technology",
+          "url": "https://capacitorjs.com/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "templates",
+      "name_en": "templates",
+      "importance": 3,
+      "items": [
+        {
+          "id": "free-angular-admin-template-open-source-dashboard-panel",
+          "title_en": "Free Angular Admin Template · Open Source Dashboard & Panel",
+          "url": "https://coreui.io/product/free-angular-admin-template/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "free-bootstrap-admin-template-for-ai-assisted-development",
+          "title_en": "Free Bootstrap Admin Template for AI-Assisted Development",
+          "url": "https://coreui.io/product/free-bootstrap-admin-template/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "free-react-admin-template-for-ai-assisted-development",
+          "title_en": "Free React Admin Template for AI-Assisted Development",
+          "url": "https://coreui.io/product/free-react-admin-template/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "free-vue-admin-template-for-ai-assisted-development",
+          "title_en": "Free Vue Admin Template for AI-Assisted Development",
+          "url": "https://coreui.io/product/free-vue-admin-template/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "graphql",
+      "name_en": "GraphQL",
+      "importance": 3,
+      "items": [
+        {
+          "id": "learn-graphql",
+          "title_en": "Learn | GraphQL",
+          "url": "https://graphql.org/learn/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "instant-graphql-for-node-js-backend-stack",
+          "title_en": "Instant GraphQL for Node.js backend stack",
+          "url": "https://hasura.io/learn/graphql/backend-stack/languages/node/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "design-patterns",
+      "name_en": "Design Patterns",
+      "importance": 3,
+      "items": [
+        {
+          "id": "factory-method-lld",
+          "title_en": "Factory Method | LLD",
+          "url": "https://algomaster.io/learn/lld/factory-method",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "creational-design-patterns-geeksforgeeks",
+          "title_en": "Creational Design Patterns - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/system-design/creational-design-pattern/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "code-examples-of-design-patterns",
+          "title_en": "Code Examples of Design Patterns",
+          "url": "https://refactoring.guru/design-patterns/examples",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "design-patterns",
+          "title_en": "Design Patterns",
+          "url": "https://sourcemaking.com/design_patterns",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "factory-method-vs-factory-vs-abstract-factory-baeldung-on-computer-science",
+          "title_en": "Factory Method vs. Factory vs. Abstract Factory | Baeldung on Computer Science",
+          "url": "https://www.baeldung.com/cs/factory-method-vs-factory-vs-abstract-factory",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "orm",
+      "name_en": "ORM",
+      "importance": 3,
+      "items": [
+        {
+          "id": "datasource-typeorm",
+          "title_en": "DataSource | TypeORM",
+          "url": "https://typeorm.io/docs/data-source/data-source",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "prisma-postgres-serverless-postgresql-with-instant-setup",
+          "title_en": "Prisma Postgres | Serverless PostgreSQL with Instant Setup",
+          "url": "https://www.prisma.io/postgres",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "sequelize-feature-rich-orm-for-modern-typescript-javascript",
+          "title_en": "Sequelize | Feature-rich ORM for modern TypeScript & JavaScript",
+          "url": "https://sequelize.org/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "drizzle-orm-next-gen-typescript-orm",
+          "title_en": "Drizzle ORM - next gen TypeScript ORM.",
+          "url": "https://orm.drizzle.team/",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    },
+    {
+      "id": "other",
+      "name_en": "Other",
+      "importance": 3,
+      "items": [
+        {
+          "id": "introduction-sveltekit-docs",
+          "title_en": "Introduction • SvelteKit Docs",
+          "url": "https://svelte.dev/docs/kit/introduction",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "svelte-dev-apps-svelte-dev-at-main-sveltejs-svelte-dev",
+          "title_en": "svelte.dev/apps/svelte.dev at main · sveltejs/svelte.dev",
+          "url": "https://github.com/sveltejs/svelte.dev",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "flutter-documentation",
+          "title_en": "Flutter documentation",
+          "url": "https://docs.flutter.dev/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "rpokluda72",
+          "title_en": "rpokluda72",
+          "url": "https://github.com/rpokluda72",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "my-study-projects",
+          "title_en": "My Study Projects",
+          "url": "https://rpokluda72.github.io/my-self-study-projects/index.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mystudydocs",
+          "title_en": "MyStudyDocs",
+          "url": "https://rpokluda72.github.io/MyStudyDocs/docs/index.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "postman-api-platform",
+          "title_en": "Postman API Platform",
+          "url": "https://roman-pokluda-268373.postman.co/home",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "rxjs-example-stackblitz",
+          "title_en": "RxJS example - StackBlitz",
+          "url": "https://stackblitz.com/run?devtoolsheight=50&file=index.ts",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "trasform-tools",
+          "title_en": "Trasform Tools",
+          "url": "https://transform.tools/html-to-jsx",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "w3schools-tryit-editor",
+          "title_en": "W3Schools Tryit Editor",
+          "url": "https://www.w3schools.com/html/tryit.asp?filename=tryhtml_intro",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "w3schools-tryit-editor",
+          "title_en": "W3Schools Tryit Editor",
+          "url": "https://www.w3schools.com/bootstrap/tryit.asp?filename=trybs_default&stacked=h",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "html-online-editor-compiler-interpreter-runner",
+          "title_en": "HTML Online Editor (Compiler, Interpreter & Runner)",
+          "url": "https://onecompiler.com/html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "typescript",
+          "title_en": "TypeScript",
+          "url": "https://www.itnetwork.cz/javascript/typescript",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "material-design-3-google-s-latest-open-source-design-system",
+          "title_en": "Material Design 3 - Google's latest open source design system",
+          "url": "https://m3.material.io/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "introducing-chatgpt-openai",
+          "title_en": "Introducing ChatGPT | OpenAI",
+          "url": "https://openai.com/index/chatgpt/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "leetcode-the-world-s-leading-online-programming-learning-platform",
+          "title_en": "LeetCode - The World's Leading Online Programming Learning Platform",
+          "url": "https://leetcode.com/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "npm-pr-vodce-za-tky-a-z-kladn-mi-p-kazy",
+          "title_en": "NPM: Průvodce začátky a základními příkazy",
+          "url": "https://www.vzhurudolu.cz/prirucka/npm",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "srovn-n-spr-vc-bal-k-yarn-npm-pnpm-cookielab",
+          "title_en": "Srovnání správců balíčků: Yarn, NPM, PNPM | Cookielab",
+          "url": "https://www.cookielab.io/blog/srovnani-spravcu-balicku-yarn-npm-pnpm",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "hibernate-tutorial-geeksforgeeks",
+          "title_en": "Hibernate Tutorial - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/java/hibernate-tutorial/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mvc-architektura",
+          "title_en": "MVC architektura",
+          "url": "https://www.itnetwork.cz/navrh/mvc-architektura-navrhovy-vzor",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "padding-esk-css-3-manu-l",
+          "title_en": "padding - Český CSS 3 manuál",
+          "url": "https://www.itnetwork.cz/html-css/css3/css-manual/html-css-css-manual-okraje/padding-css-3-vlastnost-cesky-manual",
+          "importance": 3,
+          "lang": "cz"
+        },
+        {
+          "id": "difference-between-dependencies-devdependencies-and-peerdependencies-geeksforgeeks",
+          "title_en": "Difference between dependencies, devDependencies and peerDependencies - GeeksforGeeks",
+          "url": "https://www.geeksforgeeks.org/node-js/difference-between-dependencies-devdependencies-and-peerdependencies/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "how-to-use-json-server-for-front-end-development",
+          "title_en": "How to Use JSON Server for Front-end Development",
+          "url": "https://www.freecodecamp.org/news/json-server-for-frontend-development/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "jsonplaceholder-free-fake-rest-api",
+          "title_en": "JSONPlaceholder - Free Fake REST API",
+          "url": "https://jsonplaceholder.typicode.com/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "my-json-server-fake-online-rest-server-for-teams",
+          "title_en": "My JSON Server - Fake online REST server for teams",
+          "url": "https://my-json-server.typicode.com/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "mockapi",
+          "title_en": "mockAPI",
+          "url": "https://mockapi.io/",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "annotations-junit-user-guide",
+          "title_en": "Annotations :: JUnit User Guide",
+          "url": "https://docs.junit.org/6.0.3/writing-tests/annotations.html",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "basics-guide-server-mariadb-documentation",
+          "title_en": "Basics Guide | Server | MariaDB Documentation",
+          "url": "https://mariadb.com/docs/server/mariadb-quickstart-guides/basics-guide",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "installing-tailwind-css-with-vite-tailwind-css",
+          "title_en": "Installing Tailwind CSS with Vite - Tailwind CSS",
+          "url": "https://tailwindcss.com/docs/installation/using-vite",
+          "importance": 3,
+          "lang": "en"
+        },
+        {
+          "id": "tutorial-your-first-jakarta-ee-application-intellij-idea-documentation",
+          "title_en": "Tutorial: Your first Jakarta EE application | IntelliJ IDEA Documentation",
+          "url": "https://www.jetbrains.com/help/idea/creating-and-running-your-first-jakarta-ee-application.html#new_project",
+          "importance": 3,
+          "lang": "en"
+        }
+      ],
+      "groups": []
+    }
+  ]
+}

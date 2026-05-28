@@ -1,0 +1,15 @@
+{
+  "name": "my-study-bookmarks",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node server.js",
+    "parse": "node parse-bookmarks.js",
+    "parse-json": "node parse-bookmarks-json.js",
+    "static": "node generate-static.js",
+    "stop": "npx kill-port 3000"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}

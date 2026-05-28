@@ -1,0 +1,60 @@
+Today we was working on project MyStudyPagesWithTranslation - C:\Users\roman\Work\claude\projects\MyStudyPagesWithTranslation.
+I would like to create similar one. The target/purpose : has option to visit and manage my bookmarks pages exported from browser.
+In project MyStudyPagesWithTranslation I added file bookmarks.html and you add functimality/script and transfer it to bookmarks.json.
+This jsom file will be source for this project like was links.json in MyStudyPagesWithTranslation.
+This project won't be about translations. You can copy this functionality from MyStudyPagesWithTranslation:
+- script for transform bookmarks.html to bookmarks.json
+- left menu panel generated from bookmarks.json
+- manage links
+- collapse/expand funct.
+
+New features:
+- I would like to have option to set importance on groups, sub-groups nad links
+- set of importance should be part of manage panel.
+- importance will have 5 levels - 1 most important ... to 5-least important. You can set name for other importance levels by yourself.
+- dafault level for the new/not-set will be 3
+- each level will will have specific colour which will be used/visible in menu left panel, manage panel and main panel if selected link
+- I would like to have option to change importance level colors. If editable on some new panel or as setting in some setting file is up to you.
+
+If I select link from the menu panel you will show page with that link url in main panel or new card. Option if open in main panel or new card can be set in header panel.
+Can you see solution create final static page without manage, generate or transform functionality ? Just have staiv html page and have option to open link from menu panel.
+
+Add new attribute for link items in bookmarks.json-lang. Will have to options en for english and cz for czech language. It will be set in parse script by this rule: if url has ".cz" it will be "cz", otherwise it will ne "en".
+This should be editable in manage panel. You can some filter button to the manu panel to have option filter english/czech/en+cz pages
+
+Background color of menu items could be set by current importance level. span-"imp-dot" won't be needed. Do it in manage panel too, to see it in row.
+
+Could you increase a bit width of menu panel ?
+
+New feature : if I put cursor to menu item, show link url in tooltip
+
+New feature : Could you add filtering by importance level to menu panel. Place it under language filter buttons. It could be managed by five colored checkboxes and should filter menu items by importance level.
+I can see one conflict: we have importance on groups and levels. For example if is selected importance 3, group has importance 2 and some links in group has importance 3 : links should be filtered and visible. So Filtering should filter by link/item importance only.
+
+Can you check option/solution for this ? : It will be more useful for me to have option to set title, importance and delete link from main panel on selected link. Header of the main panel looks good for that.
+
+main panel header improvements:
+- increase width of info-bar-title-input. It is most important and editable attribute than info-bar-link
+- button info-bar-new-tab (Open in new tab) could be the first or last button in the right part. Manage buttons should be together
+- can you use trash/basket icon for info-bar-delete-btn. That X looks like close panel
+
+We solved few mins ago issue - blocked notice with "Open in new tab ↗" - could you add solution for that to the script/page for static generation ?
+
+Improvements on manage panel:
+- if I click on "+ Sub-group" or "+ Add Bookmark" buttons than group is collapsed and impossible to update
+- background of groups/sub-groups is not colored by importance
+
+Improvements on mene panel:
+- it would be nice to have info about importance of included links in groups/sub-groups. You can add span like span "imp-dot" in manage panel/Importance colors. It helps in case if collapsed all items.Number and type of those "imp-dot" depends on links in group.
+
+Remove update features on header main panel from static page. It should not be possible to change name or importance.
+
+Like you add importance "imp-dot" on group menu items you can add "lang-badge" like in link menu item. It will be info that group includes czech page. Count of such pages will be nice. It was great that you added number if importance in previous request !
+
+if click/select on importance filter button on menu panel than menu items are expanded. It tis not good. State of expanded/collapsed items/groups can not be changed by any filter action
+
+Is it possible to store link importances before run parse script and set old value instead of default (if exists in stored file) ? The key of storing importance value could be link url. Storing importance of groups/sub-groups could be done by name.
+
+Improvements on manage panel: it would be nice to have option to set of all included links/sub-groups importance by the set of parent group. Some check box to set included/children links/sub-groups.
+
+If I change importances on group/sub-group - background color is not set automatically. In case of change importances on link it is ok
